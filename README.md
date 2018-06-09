@@ -2,7 +2,7 @@ This project contains the script and data to reproduce the results of model disc
 
 It is possible to re-run all the simulations used in the paper launching RUN_ALL_SIMULATIONS.m . Be advised however that the involved simulations may take very long to run (in the order of few months), especially on non massively multi-core machines. 
 
-If you reproduced the simulations with RUN_ALL_SIMULATIONS.m or you just want to reproduce the graphics you should:
+If you reproduced the simulations with RUN_ALL_SIMULATIONS.m or you just want to reproduce the figures you should:
 (1)- put all .m files in the same folder
 (2)- in the same folder place all .mat files of this project.
 (3)- launch:
