@@ -4,7 +4,9 @@ It is possible to re-run all the simulations used in the paper launching RUN_ALL
 
 If you reproduced the simulations with RUN_ALL_SIMULATIONS.m or you just want to reproduce the figures you should:
 (1)- put all .m files in the same folder
+
 (2)- in the same folder place all .mat files of this project.
+
 (3)- launch:
 	(3a) Figures_MainText to reproduce all the figures in the main text of  Righi, Takacs 2018, Scientific Reports.
 	(3b) SI_Figures_All.m to reproduce all the figures in the supplementary information of  Righi, Takacs 2018, Scientific Reports.
