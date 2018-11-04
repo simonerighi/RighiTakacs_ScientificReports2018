@@ -9,4 +9,8 @@ If you reproduced the simulations with RUN_ALL_SIMULATIONS.m or you just want to
 	(3a) Figures_MainText to reproduce all the figures in the main text of  Righi, Takacs 2018, Scientific Reports.
 	(3b) SI_Figures_All.m to reproduce all the figures in the supplementary information of  Righi, Takacs 2018, Scientific Reports.
 
-The model detailed description is contained in the article Righi S., Takacs K. (2018) "Social Closure and the Evolution of Cooperation via Indirect Reciprocity", Scientific Reports.
+The model detailed description is contained in the article Righi, Simone, and Károly Takács. "Social Closure and the Evolution of Cooperation via Indirect Reciprocity." Scientific Reports (Nature Publisher Group) 8 (2018): 1-9. [DOI:https://doi.org/10.1038/s41598-018-29290-0]
+
+https://www.nature.com/articles/s41598-018-29290-0
+
+If you use parts of our code, please acknowledge us by citing our paper.
